@@ -112,3 +112,10 @@ The four plots that you will need to construct are shown below.
 
 ![plot of chunk unnamed-chunk-5](figure/unnamed-chunk-5.png) 
 
+
+## Additional Information
+
+According to the aforementioned information, you will find in the files named plot1.r, plot2.r, plot3.r and plot4.r the needed 
+scripts to run and obtain the figures. 
+
+
